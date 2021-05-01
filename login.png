@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<!-- saved from url=(0043)file:///D:/html%20%20prgrms/loginform1.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<title>loginform</title>
+	<link rel="stylesheet" type="text/css" href="./login_files/loginform.css">
+	<link rel="stylesheet" type="text/css" href="./login_files/login-page-images">
+</head>
+<body>
+      <div class="loginbox">
+      	<img src="./login_files/photo-1603899122406-e7eb957f9fd6" class="logo">
+      	  <h1>LOGIN HERE</h1>
+      	  <form>
+      		<p>Username :</p>
+      		<input type="text" name="" placeholder="Enter Username">
+      		<p>Password:</p>
+      		<input type="password" name="" placeholder="Enter password">
+      		<input type="submit" value="Login" name=" "><br>
+      		<a href="file:///D:/html%20%20prgrms/loginform.html#">Lost your Password?</a><br>
+      		<a href="file:///D:/html%20%20prgrms/loginform.html#">Don't have an account?</a>
+      	</form>
+
+
+
+      </div>
+
+
+</body></html>
